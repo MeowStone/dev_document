@@ -7,5 +7,6 @@
 
 ## 本地创建SSH Key ##
 如果已创建，跳过此步骤。 如果没有，打开Shell（Windows下打开Git Bash），创建SSH Key：
-> ssh-keygen -t rsa -C "example@qq.com"
+
+    ssh-keygen -t rsa -C "example@qq.com"
 
